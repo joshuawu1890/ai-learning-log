@@ -1,0 +1,24 @@
+Monthly Sales Report - 2026-10
+Generated: 2026-11-17 06:53
+---------------------------------------------
+Orders:        58
+Units sold:    360
+Total amount:  $15685.7
+Average order: $270.44
+Best day:      2026-10-24 ($3307.28)
+
+By category:
+  Accessories: $3601.96
+  Electronics: $11345.54
+  Stationery: $738.2
+
+By region:
+  Auckland: $5048.91
+  Christchurch: $2202.21
+  Hamilton: $2707.1
+  Wellington: $5727.48
+
+Top 3 products:
+  1. Headphones - $7799.4
+  2. Mechanical Keyboard - $1611.0
+  3. Wireless Mouse - $1199.6

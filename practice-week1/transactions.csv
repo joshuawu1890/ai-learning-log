@@ -1,0 +1,117 @@
+date,product,category,region,units,unit_price
+2026-09-09,Notebook A5,Stationery,Wellington,12,8.5
+2026-10-20,,Stationery,Auckland,2,8.50
+2026-09-25,USB-C Cable,Electronics,Auckland,10,15.99
+2026-09-01,Desk Lamp,Accessories,Wellington,4,39.95
+2026-09-28,Water Bottle,Accessories,Wellington,5,24.95
+2026-10-08,Desk Lamp,Accessories,Hamilton,4,39.95
+2026-10-27,Desk Lamp,Accessories,Hamilton,5,39.95
+2026-09-28,Water Bottle,Accessories,Auckland,9,24.95
+2026-09-22,Gel Pen Set,Stationery,Wellington,8,12.99
+2026-10-06,Wireless Mouse,Electronics,Auckland,1,29.99
+2026-09-06,Gel Pen Set,Stationery,Auckland,6,12.99
+2026-10-28,Notebook A5,Stationery,Wellington,11,8.5
+2026-09-23,Desk Lamp,Accessories,Wellington,9,39.95
+2026-10-21,Headphones,Electronics,Wellington,9,129.99
+2026-10-10,Laptop Stand,Accessories,Wellington,7,45.0
+2026-09-10,Mechanical Keyboard,Electronics,Hamilton,5,89.5
+2026-10-04,USB-C Cable,Electronics,Hamilton,4,15.99
+2026-09-02,Mechanical Keyboard,Electronics,Wellington,4,89.5
+2026-10-15,Mechanical Keyboard,Electronics,Wellington,2,89.5
+2026-09-30,Water Bottle,Accessories,Auckland,4,24.95
+2026-10-15,USB-C Cable,Electronics,Auckland,9,15.99
+2026-10-10,Headphones,Electronics,Auckland,2,129.99
+2026-09-09,Laptop Stand,Accessories,Christchurch,2,45.0
+2026-10-14,Headphones,Electronics,Auckland,12,129.99
+2026-09-30,Laptop Stand,Accessories,Auckland,6,45.0
+2026-09-30,Notebook A5,Stationery,Hamilton,9,8.5
+2026-09-05,Laptop Stand,Accessories,Christchurch,2,45.0
+2026-10-20,USB-C Cable,Electronics,Christchurch,8,15.99
+2026-10-14,Notebook A5,Stationery,Auckland,1,8.5
+2026-09-04,Gel Pen Set,Stationery,Christchurch,5,12.99
+2026-10-29,Gel Pen Set,Stationery,Auckland,2,12.99
+2026-10-27,Wireless Mouse,Electronics,Auckland,11,29.99
+2026-10-18,Gel Pen Set,Stationery,Christchurch,5,12.99
+2026-10-27,Gel Pen Set,Stationery,Christchurch,1,12.99
+2026-09-12,Mechanical Keyboard,Electronics,Wellington,9,89.5
+2026-10-12,Desk Lamp,Accessories,Wellington,3,
+2026-10-07,Notebook A5,Stationery,Auckland,4,8.5
+2026-09-13,Desk Lamp,Accessories,Wellington,11,39.95
+2026-10-31,Headphones,Electronics,Wellington,7,129.99
+2026-10-21,Mouse Pad,Accessories,Auckland,2,19.99
+2026-10-05,Mechanical Keyboard,Electronics,Hamilton,6,89.5
+2026-09-01,Mechanical Keyboard,Electronics,Auckland,12,89.5
+2026-10-08,USB-C Cable,Electronics,Hamilton,3,15.99
+2026-10-03,Wireless Mouse,Electronics,Christchurch,2,29.99
+2026-10-16,Gel Pen Set,Stationery,Auckland,10,12.99
+2026-09-07,Mouse Pad,Accessories,Christchurch,1,19.99
+2026-09-21,Mouse Pad,Accessories,Hamilton,9,19.99
+2026-10-12,Desk Lamp,Accessories,Hamilton,12,39.95
+2026-09-03,Laptop Stand,Accessories,Hamilton,4,45.0
+2026-09-17,Gel Pen Set,Stationery,Christchurch,4,12.99
+2026-10-02,Wireless Mouse,Electronics,Auckland,12,29.99
+2026-10-01,Mouse Pad,Accessories,Wellington,10,19.99
+2026-10-20,Notebook A5,Stationery,Auckland,1,8.5
+2026-09-29,Mouse Pad,Accessories,Hamilton,4,19.99
+2026-09-27,Laptop Stand,Accessories,Auckland,2,45.0
+2026-10-04,Water Bottle,Accessories,Hamilton,4,24.95
+2026-09-16,Water Bottle,Accessories,Hamilton,11,24.95
+2026-09-22,Mechanical Keyboard,Electronics,Christchurch,11,89.5
+2026-09-03,Mouse Pad,Accessories,Auckland,9,19.99
+2026-09-01,USB-C Cable,Electronics,Auckland,11,15.99
+2026-09-09,Mechanical Keyboard,Electronics,Auckland,11,89.5
+2026-10-04,Water Bottle,Accessories,Wellington,9,24.95
+2026-09-21,Desk Lamp,Accessories,Auckland,11,39.95
+2026-10-24,Headphones,Electronics,Christchurch,11,129.99
+2026-09-18,Headphones,Electronics,Hamilton,2,129.99
+2026-09-08,Headphones,Electronics,Christchurch,11,129.99
+2026-10-12,Headphones,Electronics,Hamilton,3,129.99
+2026-10-11,Wireless Mouse,Electronics,Wellington,7,29.99
+2026-10-07,Laptop Stand,Accessories,Wellington,9,45.0
+2026-10-11,Wireless Mouse,Electronics,Hamilton,5,29.99
+2026-10-06,Gel Pen Set,Stationery,Hamilton,12,12.99
+2026-10-14,Mouse Pad,Accessories,Hamilton,9,19.99
+2026-10-10,Water Bottle,Accessories,Hamilton,4,24.95
+2026-09-03,Water Bottle,Accessories,Christchurch,1,24.95
+2026-09-20,Gel Pen Set,Stationery,Auckland,7,12.99
+2026-10-23,Water Bottle,Accessories,Christchurch,10,24.95
+2026-09-29,Headphones,Electronics,Wellington,12,129.99
+2026-09-13,Notebook A5,Stationery,Auckland,4,8.5
+2026-10-30,USB-C Cable,Electronics,Auckland,6,15.99
+2026-10-24,Headphones,Electronics,Auckland,11,129.99
+2026-09-16,USB-C Cable,Electronics,Wellington,12,15.99
+2026-09-22,Notebook A5,Stationery,Auckland,5,8.5
+2026-09-25,Notebook A5,Stationery,Hamilton,1,8.5
+2026-10-03,Wireless Mouse,Electronics,Wellington,2,29.99
+2026-09-14,Notebook A5,Stationery,Hamilton,5,8.5
+2026-09-16,Water Bottle,Accessories,Wellington,5,24.95
+2026-10-03,Headphones,Electronics,Wellington,5,129.99
+2026-09-02,Gel Pen Set,Stationery,Auckland,1,12.99
+2026-09-28,USB-C Cable,Electronics,Wellington,11,15.99
+2026-10-31,USB-C Cable,Electronics,Auckland,5,15.99
+2026-10-19,Notebook A5,Stationery,Wellington,5,8.5
+2026-10-26,Notebook A5,Stationery,Wellington,11,8.5
+2026-09-19,Mechanical Keyboard,Electronics,Wellington,11,89.5
+2026-10-05,Wireless Mouse,Electronics,Auckland,,29.99
+2026-10-31,Notebook A5,Stationery,Auckland,6,8.5
+2026-10-25,Mechanical Keyboard,Electronics,Wellington,5,89.5
+2026-09-24,Desk Lamp,Accessories,Wellington,3,39.95
+2026-10-22,USB-C Cable,Electronics,Christchurch,2,15.99
+2026-10-26,Mouse Pad,Accessories,Wellington,12,19.99
+2026-09-02,Headphones,Electronics,Auckland,10,129.99
+2026-10-29,USB-C Cable,Electronics,Hamilton,9,15.99
+2026-09-12,Laptop Stand,Accessories,Wellington,8,45.0
+2026-09-11,Notebook A5,Stationery,Wellington,11,8.5
+2026-09-17,Headphones,Electronics,Christchurch,12,129.99
+2026-09-11,Notebook A5,Stationery,Wellington,6,8.5
+2026-10-22,Laptop Stand,Accessories,Christchurch,5,45.0
+2026-10-13,Desk Lamp,Accessories,Wellington,1,39.95
+2026-09-29,Desk Lamp,Accessories,Hamilton,11,39.95
+2026-10-09,Water Bottle,Accessories,Auckland,1,24.95
+2026-10-24,Mechanical Keyboard,Electronics,Wellington,5,89.5
+2026-09-26,Notebook A5,Stationery,Christchurch,4,8.5
+2026-09-07,Water Bottle,Accessories,Auckland,7,24.95
+2026-10-15,Mouse Pad,Accessories,Auckland,11,19.99
+2026-09-17,Mouse Pad,Accessories,Hamilton,10,19.99
+2026-10-17,Mouse Pad,Accessories,Auckland,10,19.99
+2026-09-15,Laptop Stand,Accessories,Christchurch,4,45.0
